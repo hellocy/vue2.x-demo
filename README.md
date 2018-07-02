@@ -1,4 +1,4 @@
-# logistics system by vue2.x
+# vue2.x demo
 
 > A Vue.js project
 
